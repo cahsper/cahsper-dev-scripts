@@ -1,0 +1,37 @@
+# IDE specific
+.idea/
+.idea_modules/
+.vscode/
+*.code-workspace
+
+# General
+.env
+*.log
+*.tmp
+*.gz
+*.tar
+~$*
+node_modules/
+Thumbs.db
+.DS_Store
+*.exe
+*.dll
+*.pdb
+
+# Scala
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+*/.g8/*
+.sbtops
+
+# CSharp
+**/bin/*
+**/obj/*
+
+# Front end
+**/node_modules/*
+**/dist/*

@@ -1,0 +1,26 @@
+{
+  "name": "cahsper-dev-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshinorin/cahsper-dev-scripts.git"
+  },
+  "author": "yoshinorin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoshinorin/cahsper-dev-scripts/issues"
+  },
+  "homepage": "https://github.com/yoshinorin/cahsper-dev-scripts#readme",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "3.11.0",
+    "dotenv": "8.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37"
+  }
+}
