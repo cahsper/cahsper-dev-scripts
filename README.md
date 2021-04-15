@@ -2,6 +2,12 @@
 
 Scripts for cahsper.
 
+## Setup
+
+```sh
+$ npm install
+```
+
 ## Create User (AdminCreateUser API)
 
 Create user on Cognito with AdminCreateUser API.
