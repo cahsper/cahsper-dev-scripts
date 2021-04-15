@@ -16,7 +16,7 @@ Create user on Cognito with AdminCreateUser API.
 ### example
 
 ```
-$ node createUser.js example-user
+$ node ./src/createUser.js example-user
 
 {
   '$metadata': {
